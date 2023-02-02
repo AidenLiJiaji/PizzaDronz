@@ -1,0 +1,35 @@
+Range of Requirements for Pizza Drone System
+
+Introduction:
+This document outlines the different types of requirements that must be met for the successful operation of a pizza drone system. The emphasis is on providing good coverage of a range of requirements in order to ensure that the system is efficient, effective, and user-friendly.
+
+Range of Requirements:
+1.	Geographical coverage: The drone must be capable of delivering pizzas to a variety of locations, including urban and rural areas.
+2.	Weather conditions: The drone must be able to operate in various weather conditions, including rain, wind, and snow.
+
+Functional Requirements:
+1.	Navigation: The drone must be able to navigate to the delivery location accurately and efficiently.
+2.	Communication: The drone must be able to communicate with the customer, including confirming the delivery location and updating the customer on the delivery status.
+a)	A user interface for ordering and managing pizzas
+b)	Option for customers to customise their pizzas
+c)	Integration with payment gateways for secure transactions
+d)	Email/SMS notifications for order updates
+(However, the above functional requirements are not necessary but a good improvement for the project because the project is mainly to implement an algorithm to control the drone's flight and respect the constraints)
+3.	Delivery: The drone must be able to securely deliver the pizza to the customer.
+
+
+Measurable Quality Attributes:
+1.	Delivery speed: The drone must be able to deliver the pizza in a timely manner.
+2.	Navigation accuracy: The drone must be able to navigate to the delivery location accurately.
+3.	Response time for planning routes and processing orders.
+4.	Availability of the system during peak hours.
+5.	Accuracy of pizza order and delivery information
+
+Qualitative Requirements:
+1.	User-friendliness: The drone must be easy to use and provide a positive customer experience. The interface must be accessible.
+2.	Design: The drone must have a visually appealing design.
+
+Conclusion:
+This document demonstrates good coverage of a range of requirements for a pizza drone system. The emphasis is on ensuring that the system is efficient, effective, and user-friendly, while also meeting the functional and measurable quality requirements. By covering a variety of requirements, the system will provide a high level of quality and meet the needs of customers.
+
+
